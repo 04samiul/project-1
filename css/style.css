@@ -120,6 +120,9 @@ footer {
     background: #000;
     color: #fff;
     padding: 9px 20px;
+    position: fixed;
+    width: 100%;
+    bottom: 0;
 }
 footer .footer_flex{
     display: flex;
